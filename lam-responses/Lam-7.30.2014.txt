@@ -1,0 +1,9 @@
+Reflection - 7/30/2014
+
+Here is a sample .txt file that you would add to your folder in the GitHub respository. 
+
+A couple things to remember: 
+
+1. Name your file with the following convention: "Lastname-duedate" - e.g. ("Lam-7.30.2014")
+2. Make sure to save as a .txt file. No rich text files. Just plain text. 
+3. Make sure to "git push" your .txt file so that everyone can access it. 
