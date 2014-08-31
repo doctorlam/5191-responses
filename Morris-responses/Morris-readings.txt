@@ -1,0 +1,18 @@
+Andrew Morris
+Week 2 Reading Response
+What was surprising from the article, particularly in regards to technological competencies from both samples in the study?
+
+In this article, Dayton and Rainey explore what hiring managers expect from recent technical communication program graduates. 
+Using online surveys that garnered responses from across the United States, they received a variety of responses with the aim to evaluate the success of technical communication programs in preparing their graduates for the professional industry.
+The authors of the article categorized the responses from the surveys, and drew a number of surprising conclusions from their data.
+The first most surprising aspect of the article and the responses gathered from hiring managers within the Technical Communication industry was the increasing emphasis on interpersonal skills and the ability to collaborate with a multitude of different groups - customers, fellow technical writers, non-technical co-workers, etc.
+Rather than expecting an emphasis on the material being taught, the article's authors found that hiring managers were increasingly prioritizing candidates abilities to collaborate well with others and liaise between different groups within and outside the organization.
+The second surprising aspect was the empirical evidence that hiring managers assumed recent graduates had the ability to write with clarity and concision.
+The hiring managers expected graduates to write well on command, indicated by one hiring manager requesting a writing sample as part of the interview process. 
+While many may assume this, and take it for granted, it is possible many students don't realize that skills-testing can be part of the interview process.
+A third surprising aspect from the Dayton and Rainey article was (at least at the time of the article's publication - 2005) the lack of a codified publication of expected learning outcomes and basic competencies for technical communication undergraduates. 
+With a lack of codified expectations, ensuring every Technical Communication program is accredited, and teaching similar principles, is difficult.
+This means that the ability for hiring managers to evaluate recent graduates is more difficult than necessary. 
+In this, I agree with the authors that an accreditation process, or at least, codifying what the industry expects from technical communication programs is overdue, and necessary.
+
+After reading this article, my question is, how could an accreditation standard work in practice, especially with an industry that rapidly evolves in terms of technology, tools, and industry professionals expectations?
