@@ -1,3 +1,19 @@
 "What was surprising from the article, particularly in regards to technological competencies from both samples in the study?" 
 
-<b> asdflkj </b>
+What was surprising from the article, particularly in regards to technological competencies from both samples in the study?
+In “Core Competencies for Technical Communicators,” I was not surprised that the top 3 comprehensive competencies for practicing technical communicators were 
+	1. Collaborating with SMEs and coworkers, 
+	2. Writing clearly for specific audiences, and 
+	3. Using technologies, 
+but rather the order in which these competencies appear. I would have guessed that the order would be 2, 3, and then 1. However, maybe this ranking should not have come as a surprise. As referenced by both Carliner in “Computers and Technology in the 21st Century” and Hayhoe in “The Essence of Technical Communication,” writing (and by some extension, editing) skills have become a “given” skillset of TCs. Thus, TCs must “find other ways to add value” (Hayoe 2002).  Apparently, the preferred way for TCs to add value are through an amalgamation of soft skills (collaboration, organization, and self-initiation) and hard skills (such as working with industry-specific technology). However: do TC programs provide the curricula necessary to respond to these demands? 
+
+Even though it’s now apparent that writing skills alone, which have come naturally for so long for many TC students, are no longer enough, students still don’t have a clear idea of what their futures hold. Will they write training manuals? Correspondence? Proposals? Will they work in the marketing department or the product development department? I think many students and even professionals have a hard time simply explaining exactly what technical communication can mean as a career, which in turn makes it difficult for program coordinators and students alike to know what skills they will need to bring to their careers. However, maybe this article, and others like it, can help academic programs create curricula that can meaningfully guide students into developing significant skillsets. Additionally, I think another solution to this uncertainty could be for TC programs to consider creating defined specialties within TC, much in the way an English major has a concentration in Victorian Lit, British Lit, Hispanic Lit, etc. Smaller programs with fewer resources might have a hard time actualizing this idea at first, but it’s something bigger schools such as those featured in Appendix A could apply and, if successful, make a trend of across TC programs. Perhaps the answer to the uncertainty is simply the certification of specific skills, even though the idea of certification vs. professionalization has surfaced in the STC before, only to meet little resolution. 
+
+This last point connects with the class discussion in 5191 on learning and differentiating between “technology” and “tools.” In 5195, we discussed the idea of job ads being more like “wish lists” than hardened demands, and that most managers are willing to train an employee on the “tools” needed to perform if they seem
+	1.	Capable of  collaborating with other employees
+	2.	Able to learn and adapt quickly and under pressure
+	3.	Already literate in the associated “technology(ies)”
+
+But even if job ads are really just wish lists, applicants still have to be aware of the items on the wish list and be able to eloquently discuss them on an interview. This again brings up the idea that not all TC programs meet professional expectations. 
+
+What would you do to bridge the discrepancies between managerial expectations and current TC curricula? How would you resolve the lack of standardization among TC programs across the country? 
