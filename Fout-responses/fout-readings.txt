@@ -1,0 +1,11 @@
+I was surprised to learn the de-emphasis of tool knowledge by the managers.
+Many job ads seem to list a great variety of tools as necessary or required for the job, so it was comforting to learn that this was deemphasized as compared to so-called “soft skills” like collaboration and interpersonal skills.
+I was also very surprised to see that members of academia acknowledged that employers focus on tool usage and made recommendations to professors to tell their students to ignore these requirements in job ads.
+I was a little surprised by the lack of emphasis on web design/development as a skill until I realized that the article had been published in 2005.
+I believe that today’s technical communicator needs to have a strong grasp of web technology in order to be effective at his or her job.
+I am still a little surprised to find that high-quality writing skills are seen as a prerequisite for a technical writer.
+It seems to me that, even amongst technical writers, there is often a gap in skill.
+I suppose, upon further analysis, that this makes sense if one imagines that the only technical writers who get hired are good writers, but still, I would have placed this at the top of the list, rather than at two or three.
+I find it reassuring that the tech comm program at UNT places such focus on projects, especially group projects, because sometimes it seems that group work doesn’t take place often outside of school projects.
+This summer I worked as an intern at a small marketing company, and although I did lots of technical writing, I very seldom worked as part of a group.
+Or if I did, it was modularized in such a way that I might as well have been working on my own, so it was great to see that this skill will come in handy elsewhere.
