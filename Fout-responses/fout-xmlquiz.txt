@@ -1,0 +1,42 @@
+===XML QUIZ===
+Answer the following questions. Push the following file to your folder in 5191-responses repository. Follow this naming convention: 
+
+lastname-xmlquiz.txt
+
+1. What is XML and what is its purpose? (Write your response inside of this text file)
+XML is a markup language similar to HTML. XML stands for extensible markup language, and it is basically a markup language that can use
+any tag that a user defines. The purpose of XML is to separate content from formatting, so a marked up document can be put into a series
+of applications to produce a series of outputs without changing the content. The markup tells each application what the data is and how
+it should be formatted.
+
+2. Markup the following data in this text file as indicated below:
+
+1211 Amherst Drive
+Denton, TX 76201
+
+111 University Drive
+Denton, TX 76207
+
+123 Fake Street
+Springfield, MO 12345
+
+=======================BEGIN XML DOCUMENT HERE===============
+
+<?xml version="1.0" encoding="UTF-8”>
+
+<address book>
+    <street>1211 Amherst Drive</street>
+    <city>Denton,</city>
+    <state>TX</state>
+    <zip>76201</zip>
+
+    <street>111 University Drive</street>
+    <city>Denton,</city>
+    <state>TX/state>
+    <zip>76207</zip>
+
+    <street>123 Fake Street</street>
+    <city>Springfield,</city>
+    <state>MO/state>
+    <zip>12345</zip>
+</address book>
