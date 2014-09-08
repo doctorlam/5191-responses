@@ -7,7 +7,9 @@ lastname-xmlquiz.txt
 
 XML is Extensible Markup Language. It is used in single sourcing to make repositories. XML
 is useful because computers and humans can read the tags. It also allows tags to be created as needed,
-so companies in different industries can create the tags that are specific to that industry.
+so companies in different industries can create the tags that are specific to that industry. XML 
+documents can also be used to create several outputs, including web pages and pdfs. Multiple authors 
+can also collaborate to create these documents. 
 
 2. Markup the following data in this text file as indicated below:
 
@@ -24,17 +26,21 @@ Springfield, MO 12345
 
 <?xml version="1.0" encoding="UTF-8”>
 
-<Street Address>1211 Amherst Drive</Street Address>
+<Address>
+	<Street Address>1211 Amherst Drive</Street Address>
 	<city>Denton,</city> 
 	<state>TX</state>
 	<zip>76201</zip>
-
-<Street Address>111 University Drive</Street Address>
+</Address>
+<Address>
+	<Street Address>111 University Drive</Street Address>
 	<city>Denton,</city> 
 	<state>TX</state>
 	<zip>76207</zip>
-
-<Street Address>123 Fake Street</Street Address>
+</Address>
+<Address>
+	<Street Address>123 Fake Street</Street Address>
 	<city>Springfield,</city> 
 	<state>MO</state> 
 	<zip>12345</zip>
+</Address>
