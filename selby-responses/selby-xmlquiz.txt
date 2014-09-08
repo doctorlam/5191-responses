@@ -1,0 +1,41 @@
+===XML QUIZ===
+Answer the following questions. Push the following file to your folder in 5191-responses repository. Follow this naming convention: 
+
+lastname-xmlquiz.txt
+
+1. What is XML and what is its purpose? (Write your response inside of this text file)
+XML is a classification system that can be used with other coding types such as HTML and CSS to keep groups separate and to work within a separate coding type(s). 
+
+2. Markup the following data in this text file as indicated below:
+
+1211 Amherst Drive
+Denton, TX 76201
+<address>
+	<street number> 1211 </street number>
+	<street name> Amherst Drive </street name>
+	<city-state> Denton, Texas </city-state>
+	<zipcode> 76201 </zipcode>
+</address> 
+
+
+111 University Drive
+Denton, TX 76207
+<address>
+	<street number> 111 </street number>
+	<street name> University Drive </street name>
+	<city-state> Denton, Texas </city-state>
+	<zipcode> 76207 </zipcode>
+</address> 
+
+123 Fake Street
+Springfield, MO 12345
+<address>
+	<street number> 123 </street number>
+	<street name> Fake Stret </street name>
+	<city-state> Springfield, MO </city-state>
+	<zipcode> 12345 </zipcode>
+</address> 
+
+=======================BEGIN XML DOCUMENT HERE===============
+
+<?xml version="1.0" encoding="UTF-8”>
