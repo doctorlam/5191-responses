@@ -4,7 +4,7 @@ Answer the following questions. Push the following file to your folder in 5191-r
 lastname-xmlquiz.txt
 
 1. What is XML and what is its purpose? (Write your response inside of this text file)
-XML is a markup language that allows users to create custom tags. XML allows technical communicators to create documents in multiple documents from a single source, aka "single sourcing." Single sourcing keeps documents and information consistent and saves time.
+XML is a markup language that allows users to create custom tags. XML allows technical communicators to create a document in multiple formats from a single source, aka "single sourcing." Single sourcing keeps documents and information consistent and saves time.
 
 2. Markup the following data in this text file as indicated below:
 
