@@ -1,0 +1,25 @@
+===XML QUIZ===
+Answer the following questions. Push the following file to your folder in 5191-responses repository. Follow this naming convention: 
+
+lastname-xmlquiz.txt
+
+1. What is XML and what is its purpose? (Write your response inside of this text file)
+
+XML is the sourcing behind softwares such as Word. It allows you to see specifically how each action works and is applied. 
+
+2. Markup the following data in this text file as indicated below:
+
+<section addresses>
+	1211 Amherst Drive
+	Denton, TX 76201
+
+	111 University Drive
+	Denton, TX 76207
+
+	123 Fake Street
+	Springfield, MO 12345
+</section addresses>
+
+=======================BEGIN XML DOCUMENT HERE===============
+
+<?xml version="1.0" encoding="UTF-8”>
