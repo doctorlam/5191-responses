@@ -1,0 +1,54 @@
+﻿===XML QUIZ===
+Answer the following questions. Push the following file to your folder in 5191-responses repository. Follow this naming convention: 
+
+lastname-xmlquiz.txt
+
+1. What is XML and what is its purpose? (Write your response inside of this text file)
+
+2. Markup the following data in this text file as indicated below:
+
+1211 Amherst Drive
+Denton, TX 76201
+
+111 University Drive
+Denton, TX 76207
+
+123 Fake Street
+Springfield, MO 12345
+
+=======================BEGIN XML DOCUMENT HERE===============
+
+<?xml version="1.0" encoding="UTF-8”>
+<DOCTYPE!.txt>
+
+1. 
+
+XML, or Extensible Markup Language, is a language technical communicators, programmers, and other content developers can use to create customizable, genre- and discipline-appropriate metadata tags (hence its extensibility). Aside from a few mechanical rules, writers can create tags that are as unique or specific as necessary for their purposes. 
+
+XML differs from HTML most notably in two ways: 1) XML tags can communicate across authoring platforms and with other languages, and 2) XML tags do not dictate what content will look like, but rather they are descriptive of what each element (or data point) is.
+
+However, certain languages or vocabularies, such as DITA, contain numerous preestablished tags that are genre specific and highly applicable to that field. Although writers are not obligated to use these tags, these vocabularies have been generated because they describe common elements of data sets within that genre. For example, in a MARC catalog, which contains metadata about books, common tags would include author, publisher, illustrator, and genre. Being able to refer to these tags allows writers to achieve consistency among their entries without unnecessarily constraining them.
+
+
+
+2. 
+
+<addressbook>
+
+	<Johnshouse>1211 
+		Amherst Drive
+		Denton, TX 76201
+	</Johnshouse>
+
+	<Maryshouse>
+		111 University Drive
+		Denton, TX 76207
+	</Maryshouse>
+
+	<Tomshouse>
+		123 Fake Street
+		Springfield, MO 12345
+	</Tomshouse>
+
+</addressbook>
+	
