@@ -1,0 +1,40 @@
+===XML QUIZ===
+Answer the following questions. Push the following file to your folder in 5191-responses repository. Follow this naming convention: 
+
+lastname-xmlquiz.txt
+
+1. What is XML and what is its purpose? (Write your response inside of this text file)
+
+XML is Extensible Markup Language. It is used in single sourcing to make repositories. XML
+is useful because computers and humans can read the tags. It also allows tags to be created as needed,
+so companies in different industries can create the tags that are specific to that industry.
+
+2. Markup the following data in this text file as indicated below:
+
+1211 Amherst Drive
+Denton, TX 76201
+
+111 University Drive
+Denton, TX 76207
+
+123 Fake Street
+Springfield, MO 12345
+
+=======================BEGIN XML DOCUMENT HERE===============
+
+<?xml version="1.0" encoding="UTF-8”>
+
+<Street Address>1211 Amherst Drive</Street Address>
+	<city>Denton,</city> 
+	<state>TX</state>
+	<zip>76201</zip>
+
+<Street Address>111 University Drive</Street Address>
+	<city>Denton,</city> 
+	<state>TX</state>
+	<zip>76207</zip>
+
+<Street Address>123 Fake Street</Street Address>
+	<city>Springfield,</city> 
+	<state>MO</state> 
+	<zip>12345</zip>
