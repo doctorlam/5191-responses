@@ -10,7 +10,7 @@ is useful because computers and humans can read the tags. It also allows tags to
 so companies in different industries can create the tags that are specific to that industry. XML 
 documents can also be used to create several outputs, including web pages and pdfs. Multiple authors 
 can also collaborate to create these documents. XML is also a recommendation of the World Wide Web
-Consortium. A XML can also put into a xhtml to create web pages.
+Consortium. A XML can also be put into a xhtml to create web pages.
 
 2. Markup the following data in this text file as indicated below:
 
