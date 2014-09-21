@@ -4,22 +4,24 @@ Answer the following questions. Push the following file to your folder in 5191-r
 lastname-xmlquiz.txt
 
 1. What is XML and what is its purpose? (Write your response inside of this text file)
-
-XML is the sourcing behind softwares such as Word. It allows you to see specifically how each action works and is applied. 
+Markeup language 
 
 2. Markup the following data in this text file as indicated below:
 
-<section addresses>
-	1211 Amherst Drive
-	Denton, TX 76201
+<addresses>
+	<street>1211 Amherst Drive</street>
+	<location>Denton, TX 76201</location>
 
-	111 University Drive
-	Denton, TX 76207
+	<street>111 University Drive</street>
+	<location>Denton, TX 76207</location>
 
-	123 Fake Street
-	Springfield, MO 12345
-</section addresses>
-
+	<street-number>123<street-number> 
+	<street-name>Fake</street-name> 
+	<street-type>Street</street-type>
+	<city>Springfield</city>, 
+	<state>MO</state> 
+	<zipcode>12345</zipcode>
+</addresses>
 =======================BEGIN XML DOCUMENT HERE===============
 
 <?xml version="1.0" encoding="UTF-8”>
