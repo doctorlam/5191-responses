@@ -1,0 +1,10 @@
+James Dallas Guill
+TECM 5191
+Dr. Lam
+September 22, 2014
+
+The Hart-Davidson article caught my attention on page 138 when it featured text from an actual technical communicator. Perhaps it’s due to the fact that we just finished up a project that involved receiving and reviewing responses not so different from hers. It’s too easy to think of content management as being taken care of by a program, based on the architecture designed for the software to follow. After reading the essay a few times, she still seems to lose me on some of the technical aspects of their work.
+
+Thankfully, the paragraph following her response was very helpful. The author refers to her as “a textual version of air traffic control.” Sonia’s job requires her to essentially filter the materials, making sure the information received by the client is correct in both content and format. It shows how intimately these people work with the content to make sure the results are consistent and fluid. It’s also another example of a job that I didn’t really know about or understand how important it is within the field of technical communication. Once again, it shows just how necessary technical communicators are to businesses that rely on a constant flow of information across electronic sources. 
+
+Hart-Davidson says it best when he states that, “we are not merely writers anymore.” He then proceeds to name off several different positions that the role has absorbed. This thought appears to echo through every piece of technical communication literature I’ve come across so far, strengthening the argument for the necessity of a well-rounded communicator that is fluent in various technologies.
