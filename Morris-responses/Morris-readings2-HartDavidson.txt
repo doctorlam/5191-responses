@@ -1,0 +1,24 @@
+Andrew Morris
+Week 4 Reading Response
+How does Hart-Davidson alter your perspective on a technical communicator's role within an organization?
+
+Hart-Davidson examines the role of technical communicators within organizations through the prism of content management.
+While Hart-Davidson remarks that the industry and academics have yet to come to a consensus on defining what "content management" means, technical communicators can still interpret content management within the context of the role they have within their organization. 
+To assist the reader understand what "content management" can mean, Hart-Davidson provides four succinct goals, which he proposes as follows;
+1. Distributing authoring tasks and responsibilities among the members of a group.
+2. Authoring and storing content in ways that enable multiple-audience adaptation, including the translation and localization of content for specific groups.
+3. Authoring and storing content in ways that permit multiple output formats to be derived from a single repository of information (i.e. single-sourcing)
+4. Authoring and storing content in ways that facilitate systematic reuse within and across organizations. 
+
+These four goals impact how technical communicators roles within an organization will be perceived.
+No longer will they be expected to "just write" or "just edit," but will have a more expansive role that involves incorporating different bits of content into a more cohesive whole. 
+Rather than be the sole authors of documents, the rise in the number of ways content can be produced (increasing the number of authors within and without an organization), technical communicators will be charged with incorporating all these fragments of content to meet one vision, or endpoint.
+For example, once any type of document or content is produced, technical communicators will ensure that the message and design of that content matches the schema and vision of that organization. 
+Hart-Davidson provides an example of this collaborator and centralized role in his communication with Sonia, a technical communicator with the title "content analyst". He used her experiences to identify the different goals he identified and how the new expectations of technical communicators exist in the business world.
+
+This chapter helped shape my expectations of what I will be expected to do as a Technical Communicator.
+Rather than change my perceptions, this chapter confirmed what I think my role would be within the technical communicator industry.
+I see my role as a technical communicator as someone who bridges gaps between different parties, and someone who uses their knowledge and experience to ensure a consistent message is maintained, both within and without an organization.
+
+This chapter challenges many perceptions in an ever-evolving field. 
+My question is, how can academics best prepare technical communication students to position themselves most attractively for future employers?

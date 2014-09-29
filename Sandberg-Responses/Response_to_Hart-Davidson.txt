@@ -1,0 +1,20 @@
+The Hart-Davidson article altered my view in several ways. The article changed the title
+that I thought a technical communicator would have within an organization. I thought it showed 
+where the field was going when the person that he interviewed wasn't a technical writer, but held
+the title of Content Analyst. I had  never heard of a content analyst, and I don't think I
+would've applied to a job with that title. The article also makes the observation that the technical writers
+role is required in the information age, but it seems to be critical about the future
+of technical communication. It both champions technical writers in more managerial positions
+while noting that organizations might be outsourced in the future. It lists the categories for managing and making content: making texts,
+creating and managing information sets, and designing and managing workflows and production models. 
+This dividion surprised me because it makes managing a central feature of two categories. Because 
+the article stresses the importance of information to companies and makes management key in the technical 
+writer's function, it positions technical writers as managers in their organizations. However, 
+it also notes that writing will be outsourced with many writers contributing from overseas. It also mentions
+that Web 2.0 has changed who contributes, from the writers to the actual users of the product and the
+content contained in the help information. The article also changed my views about 
+what content management means. I was especially surprised when the artice discussed Bush's article 
+in the context of predicting that information would one day be the most important thing, but managing it
+would be important because there would be so much of it. Although the general tone of the article was critical
+about the future of technical communication, it also placed technical writers at a crucial position within their
+organizations. 
