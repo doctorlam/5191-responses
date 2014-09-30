@@ -6,27 +6,28 @@
 	<year>2014-15
 		<Program>
 		Technical Communication
-			<type>Core</type>
-			<total-hours>18 hours</total-hours>
-				<class>
-					<letter-code>
-					TECM
-					</letter-code>
-					<numeral-code>
-					5185
-					</numeral-code>
-					<class-name>
-					Principles of Technical Communication
-					</class-name>
-					<class-hours>
-					3 hours
-					</class-hours>
-					<description>
-					Practical application of technical and professional communication in industry, business and the sciences, using the workshop approach </description>
-					<pre-req>
-					None
-					</pre-req>
+			<type>Core
+				<total-hours>18 hours</total-hours>
+					<class>
+						<letter-code>
+						TECM
+						</letter-code>
+						<numeral-code>
+						5185
+						</numeral-code>
+						<class-name>
+						Principles of Technical Communication
+						</class-name>
+						<class-hours>
+						3 hours
+						</class-hours>
+						<description>
+						Practical application of technical and professional communication in industry, business and the sciences, using the workshop approach </description>
+						<pre-req>
+						None
+						</pre-req>
 				</class>	
+			</type>
 		</program>
 	</year>
 	</classification>
