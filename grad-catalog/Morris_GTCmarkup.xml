@@ -1,23 +1,19 @@
-!doctype xml 1.0
+<?xml version= "1.0" encoding= "UTF-8"?>
 
 <catalog>
 	<classification>
 	Graduate Catalog
 	<year>2014-15
-		<Program>
+		<Program id="TECM">
 		Technical Communication
-			<type>Core
-				<total-hours>18 hours</total-hours>
+				<core>
 					<class>
-						<letter-code>
-						TECM
-						</letter-code>
-						<numeral-code>
-						5185
-						</numeral-code>
 						<class-name>
 						Principles of Technical Communication
 						</class-name>
+						<numeral-code>
+						5185
+						</numeral-code>
 						<class-hours>
 						3 hours
 						</class-hours>
@@ -26,7 +22,8 @@
 						<pre-req>
 						None
 						</pre-req>
-				</class>	
+					</class>
+				</core>
 			</type>
 		</program>
 	</year>
