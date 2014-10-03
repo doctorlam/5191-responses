@@ -1,0 +1,11 @@
+Andrew Morris
+Week 6 Reflection
+What is XSLT and how is it useful for technical communicators (TCs)?
+
+XSLT stands for eXtensible Stylesheet Language Transformations, and is a XML-based markup language.
+The language describes how to take input from one XML file (also known as the "source document" and output the data into another file type.
+Among other attributes, XSLT can extract data from element tags as well as element content, as well as making calculations and sorting data in the source document.
+
+XSLT is ueful for technical communicators on several levels. On one level, XSLT allows TCs to produce several different types of documents from one source. 
+This ability allows TCs to produce and maintain several documents without wasting time modifying each document separately - one change to the source document and the change can be pushed out to all the output documents at one time.
+On another level, XSLT allows TCs to divorce style from content, allowing different users to work on different aspects of the same document without being distracted by either style or content. Because of this ability, XSLT is extremely useful for TCs, who can produce numerous different types of documents from a single source and have the ability to maintain consistency in style and content across all formats.
