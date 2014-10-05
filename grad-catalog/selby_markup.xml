@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<course>
+    <core>
+         <class_department>TECM</class_department>  
+         <class_number>5185</class_number>
+         <class_name>Principles of Technical Communication</class_name>
+         <hours>3 hours</hours>
+         <class_description>Practical application of technical and professional communication in industry,
+                            business, and the sciences, using the workshop approach.</class_description>
+         <prerequisite>None</prerequisite>
+           
+    </core>
+</course>
