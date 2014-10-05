@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalog SYSTEM "catalog.dtd">
+
+<catalog>
+
+<degree>
+<undergraduate></undergraduate>
+<graduate>
+
+<options>
+	<option_number>Option I&#58;<option_name>Program with Written Examination</option_name></option_number>
+		<courses>
+			<core_courses>
+				<course id="1"> <course_prefix>TECM</course_prefix><course_number>5185:</course_number><course_name>Principles of Technical Communication</course_name>
+				
+				<course_description>Practical application of technical and professional communication in industry, business and the sciences, using the workshop approach.</course_description>
+				<course_objectives />
+				<course_hours>3</course_hours>
+				<course_prereqs>Prerequisite&#40;s&#41;<required_courses>None</required_courses></course_prereqs>
+				</course>	
+			</core_courses>
+			
+			<topics_courses></topics_courses>
+			
+			<practicum></practicum>
+			
+			<cognate_courses></cognate_courses>
+			
+			<comp_exam></comp_exam>
+							
+	<option_number>Option II&#58;<option_name>Thesis Program</option_name></option_number>
+			<core_courses></core_courses>
+			
+			<topics_courses></topics_courses>
+			
+			<thesis></thesis>
+			
+			<cognate_courses></cognate_courses>
+			
+			<comp_exam></comp_exam>
+			
+			</courses>	
+</options>
+</graduate>
+
+</catalog>

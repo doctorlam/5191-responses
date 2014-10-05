@@ -1,0 +1,32 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+
+<catalog>
+	<classification>
+	Graduate Catalog
+	<year>2014-15
+		<Program id="TECM">
+		Technical Communication
+				<core>
+					<class>
+						<class-name>
+						Principles of Technical Communication
+						</class-name>
+						<numeral-code>
+						5185
+						</numeral-code>
+						<class-hours>
+						3 hours
+						</class-hours>
+						<description>
+						Practical application of technical and professional communication in industry, business and the sciences, using the workshop approach </description>
+						<pre-req>
+						None
+						</pre-req>
+					</class>
+				</core>
+			</type>
+		</program>
+	</year>
+	</classification>
+</catalog>
+				

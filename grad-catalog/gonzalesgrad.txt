@@ -1,0 +1,10 @@
+<TECM-graduate-program option 1>
+	<degreerequirement>
+		<corecourses>
+			<prefix>TECM </prefix>
+			<coursenumber>5185</coursenumber>
+			<coursetitle>Principles of Technical Communication</coursetitle>
+			<hours>3 hours</hours>
+		</coursecourses>
+	</degreerequirements>
+<TECM-graduate-program option 1>

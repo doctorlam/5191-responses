@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<techCommGraduateProgram>
+		<option1>
+			<coreCourses>
+					<course>
+						<courseNumber>TECM 5185</courseNumber>
+						<courseTitle>Principles of Technical Communication</courseTitle>
+						<hours>3</hours>
+						<description>Practical application of technical and professional communication in industry, business and the sciences, using the workshop approach.
+						</description>
+					</course>
+					<course>
+						<courseNumber>TECM 5190</courseNumber>
+						<courseTitle>Style and Technical Writing</courseTitle>
+						<hours>3</hours>
+						<description>Study of the principles of technical style with intensive practice in writing and analyzing technical prose.
+						</description>
+					</course>
+					<course>
+						<courseNumber>TECM 5191</courseNumber>
+						<courseTitle>Digital Literacies for Professional Communicators</courseTitle>
+						<hours>3</hours>
+						<description>Examination of the digital literacies used in professional contexts. Intensive theory and practice of authoring tools, content management, single sourcing and coding.Prerequisite(s): None.
+						</description>
+					</course>
+					<course>
+						<courseNumber>TECM 5195</courseNumber>
+						<courseTitle>Editing Technical Documents</courseTitle>
+						<hours>3</hours>
+						<description>Practical application of technical and professional communication in industry, business and the sciences, using the workshop approach. Prerequisite(s): None.
+						</description>
+					</course>
+					<course>
+						<courseNumber>TECM 5280</courseNumber>
+						<courseTitle>Designing Technical Documents</courseTitle>
+						<hours>3</hours>
+						<description>Study of the theory of designing effective technical documents. Intensive practice in applying the theory of designing technical documents in industry, business and the sciences. Prerequisite(s): None.
+						</description>
+					</course>
+					<course>
+						<courseNumber>TECM 5285</courseNumber>
+						<courseTitle>Technical Presentations</courseTitle>
+						<hours>3</hours>
+						<description>Practice in preparing and delivering technical information to technical and lay audiences and readers. Study of the theories that form the basis for preparing and delivering technical presentations. Prerequisite(s): None.
+						</description>
+					</course>
+				</coreCourses>
+				<topicsCourses>
+					<course>
+						<courseNumber>TECM 5170</courseNumber>
+						<courseTitle>Grants and Proposals</courseTitle>
+						<hours>3</hours>
+						<description>Advanced study of technical writing that provides students with a foundation in grant seeking and persuasive writing. Covers granting in the academy, in business and for nonprofits. Prerequisite(s): None.
+						</description>
+					</course>
+					<course>
+						<courseNumber>TECM 5175</courseNumber>
+						<courseTitle>Writing in Professional Settings</courseTitle>
+						<hours>3</hours>
+						<description>Offers an introductory, hands-on approach to constructing the professional texts types found in the academy and the workplace. Recommended for students majoring in the sciences and engineering as well as students who speak English as a second language. Prerequisite(s): None.
+						</description>
+					</course>
+					<course>
+						<courseNumber>5180</courseNumber>
+						<courseTitle>Professional Writing</courseTitle>
+						<hours>3</hours>
+						<description>Application of the principles of technical style to writing in specialized fields. Topics of special emphasis include writing in the fields of scientific, report and legal writing.Prerequisite(s): None.
+						</description>
+					</course>
+					<course>
+						<courseNumber>TECM 5550</courseNumber>
+						<courseTitle>Studies in the Teaching of TEchnical Communication</courseTitle>
+						<hours>3</hours>
+						<description>Survey of current scholarly opinion concerning objectives and methods of instruction in technical communication; supervised planning of the curriculum, with special attention to problems related to teaching technical communication and to developing criteria for evaluating student writing.Prerequisite(s): None. TECM 5550 is required for all new teaching fellows. May be repeated for credit as topics vary. Offered every fall.
+						</description>
+					</course>
+					<course>
+						<courseNumber>TECM 5580</courseNumber>
+						<courseTitle>Theories in Composition</courseTitle>
+						<hours>3</hours>
+						<description>Study of composition theories, leading to the development of research techniques and compositional skills. Prerequisite(s): None.
+						</description>
+					</course>
+					
+				</topicsCourses>
+				<cognate>
+				</cognate>
+		</option1>
+		<option2>
+		</option2>
+	</techCommGraduateProgram>

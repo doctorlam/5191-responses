@@ -1,0 +1,22 @@
+<?xml-stylesheet type=text/xsl” href=“docbook.xsl”?>
+<!ELEMENT class (child1, child2, child3)>
+
+	<class> 
+		<child1>TECM 5185</child1>
+	</class>
+<!ELEMENT name (child1, child2, child3)>	
+	<name>
+		<child1>Principles of Technical Communication<child1>
+	</name>
+<!ELEMENT hours (child1, child2, child3)>	
+	<hours> 
+		<child1> 3 <child1>
+	</hours>
+<!ELEMENT description (child1, child2, child3)>
+	<description>
+		<child1>Practical application of technical and professional communication in industry, business, and the sciences, using the workshop approach.<child1>
+	</description>
+<!ELEMENT prerequisite (child1, child2, child3)>
+	<prerequisite>
+		<child1>None<child1>
+	</prerequisite>

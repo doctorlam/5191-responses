@@ -1,0 +1,15 @@
+<head>
+</head>
+
+<body>
+	<department>TECM
+	
+		<course level>core</course level>
+	
+		<course number>5285</course number>
+		<course title>Technical Presentations</course title>
+		<credit hours>3 hours</credit hours>
+		<course description>Practice in preparing and delivering technical information to technical and lay audiences and readers. Study of the theories that form the basis for preparing and delivering technical presentations.</course description>
+	
+	</department>
+</body>
