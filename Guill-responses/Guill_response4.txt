@@ -1,0 +1,11 @@
+Dallas Guill
+TECM 5191
+Dr Lam
+October 6, 2014
+
+XSLT is important to technical communicators as a tool of single sourcing.
+As the video stated, this tool is very effective as a tool to “transform XML documents into other formats” such as XHTML, PDF, Text, etc. In situations that require the same information in various formats simultaneously, this tool is extremely useful. It assists in combining an XML style sheet with an XML document, creating a new document. It also assists with turning the XML document into a document ready for display on a browser.
+
+This tool is extremely helpful to technical communicators that need to produce a styled XML document. Like the other languages, it is important for technical communicators to be familiar with this one due to the amount of technology these same communicators are having to use in the workplace. Variety and consistency is a necessity in technical fields and as Cowan explains, XSLT offers a way to add, remove, sort information, or combine multiple input documents into a single document. 
+
+
