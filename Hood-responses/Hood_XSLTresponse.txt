@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	</head>
+<body>
+
+<i>What is XSLT and how is it useful for technical communicators?</i>
+
+<p>Technical communicators (TCers) use XSLT, or Extensible Stylesheet Language Transformations, to translate XML data into varying outputs such as PDFS, HTML webpages, and other XML authoring vocabularies. </p>
+
+<p>XSL differs from XML in several ways. First, XML, like HTML, is a markup language. Markup languages are merely ways of documenting data using tags that describe what that content is (or in some cases, like in HTML specifically, what that content looks like). However, XSL is a programming language, or a language that has direct implications on what a machine does with a set of data. XSLT can actually manipulate (or rather, transform) the data from one format (XML) to another. XSLT is also different from XML in that it is “rule based” (Cowan 147) as opposed to language based, such as XML. </p>
+
+<p>XSLT is invaluable in the trend in technical communication (TC) known as single sourcing. In single sourcing, TCers use XML to write modular content at varying levels of granularity (whatever is appropriate for each desired output). TCers then use XSLT to make their XML data comprehensible to other programs (hence to various audiences). Or, TCers can use XSLT to decide what content is pulled from the source document or combined from multiple source documents to fit the rhetorical situation of each output. </p>
+
+<p>Specific uses of XSLT are including boiler-plate information to multiple documents, generating dynamic data such as TOCs, indexes, and glossaries, and combining certain nodes from one or more XML documents. What’s important to note about this process is that XSLT does not affect the original document, allowing the source document to retain its structural, syntactical, and informational integrity. In fact, if a TCer needs to update a document, all he or she would have to do is change the line(s) of data in the XML document, and the XSLT would render those changes using XPATH pull information from specific nodes (or XML elements). This convenience and efficiency in updating/customizing can help reduce an organization’s bottom line, which can in turn increase a TCer’s value and power within organizations. One final asset of XSLT is that because it’s separate document that controls the formatting and other design/visual aspects, it allows TCers to focus on making content as accessible and rhetorically appropriate as possible without worrying about final output.</p>
+
+</body>
+</html>
+
