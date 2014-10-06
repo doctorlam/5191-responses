@@ -1,0 +1,36 @@
+h1 {
+		color:red;
+		font-family:Verdana;
+		font-size:23px;
+}
+
+h3 {
+	   color:blue;
+	   font-family:Garamond;
+	   font-size: 14px;
+}
+	
+p {				
+        font-family:Times;
+		font-size:13px;
+		color:purple;
+	}
+
+ul {
+        font-family:Garamond;
+        font-size:12px;
+        color:blue;
+}
+
+ol {    
+        font-family:Garamond;
+        font-size:12px;
+        color:blue;
+}	
+
+img {
+        height:320px;
+        width:320px;
+        border-width:2px;
+        border-color:black;
+}
