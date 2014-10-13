@@ -1,0 +1,21 @@
+My XML database is coming along well, I think. I only have two entries completed because I am currently working on my XSLT. My XSLT is done for the most part, I am just trying to add the album names into the discography column. I can add the album names, but they aren't appearing how I want. Right now, the album names are grouped at the top, like this:
+
+ALBUM NAME
+ALBUM NAME
+* song
+* song
+* song
+
+I want the album name listed as h1 with the album's songs listed beneath as a bulleted list. I want them to appear like this:
+
+ALBUM NAME
+* song
+* song
+* song
+
+ALBUM NAME
+* song
+* song
+* song
+
+I can get the album name to appear as h1 and I can get the songs listed as a bulleted list, I just can't figure out how to group the album name with its corresponding list of songs. Once I figure out this problem and finish my XSLT, I will finish the rest of my entries then work on the CSS. 
