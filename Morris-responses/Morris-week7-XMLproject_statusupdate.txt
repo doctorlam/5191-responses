@@ -1,0 +1,16 @@
+Andrew Morris
+Week 7 Reflection
+Status Update on XML Project
+
+I have progressed far on my XML project. I have the skeleton of my database in place and I have successfully linked my XML database to an XSLT file. 
+The next stage is to continue "plugging in" the items for my database and ensuring they display accurately when I export to HTML.
+Once I have my complete XML database and translate it fully through XSLT, I will apply a .css stylesheet and begin researching various javascript options to make my table sortable in various columns. 
+I am thinking about a second transformation and am considering exporting as a Microsoft Excel file.
+I am happy with where I am right now in this project and am excited to see the final results.
+
+Questions:
+1. Am I missing anything in my XML database hierarchy? e.g. do I need to develop my hierarchy further, or any apparent concerns I may have missed?
+2. Do you recommend me continuing with my idea to include DVDs, CDs, and books as part of my dataset or should I pick one and stay with that?
+3. Is the reflection .txt file due next week the reflection paper due as part of the final "deliverables and requirements?"
+4. Do you have any advice about incorporating image files into the XML database, and do you have any sources I can explore to help me in this attempt?
+5. Do you have any further comments or suggestions I can think about when completing this project?
