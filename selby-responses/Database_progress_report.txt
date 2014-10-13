@@ -1,0 +1,8 @@
+For the XML project, I have succesfully created an XSL document that works and displays in the web browser.
+I am in the process of adding some HTML and CSS. I'm going through some trial and error type situations but
+I feel like I learn the most that way. I haven't made tons of progress since the last class, honestly. I hope to
+make more progress tonight during the time that we would spend in class.
+
+Some questions that I have are:
+Do you want validation screen shots when we turn this in?
+Do we need to make our table a sub-page to a home page? 
