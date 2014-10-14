@@ -1,0 +1,5 @@
+I have 10 entries completed for my database. I have decided do fiction authors from the publishing house 47North. Under each author I have his or her biography and books they have published through 47North along with the books description and the year it was published. 
+
+Questions: 
+Does this idea make for an adequate database?
+Will I be able to define paragraphs in my CSS stylesheet?
