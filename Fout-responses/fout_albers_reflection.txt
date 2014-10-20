@@ -1,0 +1,16 @@
+Albers’ article is made me think about specialization in a very different way than we have been discussing it in class.
+When we have been talking about specialization, we generally mean some sort of industry specialization like marketing, aeronautics,
+or programming; however, Albers is talking about a very different kind of specialization: a specialization in terms of information handling.
+I sometimes find myself frustrated that the undergraduate program here did not have explicit specialization paths, but one thing that I could
+foresee our program keeping, even with specialization paths, is this focus on general abilities. Everyone is basically expected to know
+everything about technical communication, and I don’t see that changing if suddenly I could specialize in marketing. I would still be expected
+to know how to do design and writing and web development. I think the same applies to the master’s program, and to this class. We aren’t told,
+“You can specialize in creating DTD’s or XSLT,” but instead are told, “You have to learn it all.” After reading this article, I have to wonder
+how effective that is.
+
+In terms of my future, I have always known that I needed to specialize. I have friends who are technical communicators who are
+jacks-of-all-trades, and they aren’t exactly happy about it. Part of the difficulty is that I have to choose a series of specializations.
+I have to choose an industry (tech) and a type of writing (comm), but this article is saying I have to choose a subcategory of writing, and I
+wonder how well that would play out. Every industry is different, and I may find myself in an industry where, like Albers himself points out,
+I may be one of two technical writers. I may not have a choice. Still, to be truly effective, I need to be a master of something that no one
+else is, and it cannot be simply writing.

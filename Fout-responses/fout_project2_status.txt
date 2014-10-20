@@ -1,0 +1,18 @@
+The XML project is coming along fine, and I should have no trouble staying on schedule and completing the project by October 27th.
+At this point, I am ready to create a .css file to style my table, but my XSLT seems to be working just fine.
+I had some trouble with one element that I had nested within another element. I had series nested within publisher, like so:
+
+  <game>
+        <console>Xbox 360</console>
+        <publisher>Ubisoft<series>Assassin's Creed</series></publisher>
+        <game_title>Assassin's Creed Revelations</game_title>
+        <single_multi>single and multi</single_multi>
+        <genre>open-world</genre>
+        <subgenre>stealth</subgenre>
+        <rating>mature</rating>
+    </game>
+    
+When I structured the XSLT to pull publisher with the value-of function, it pulled the series as well, so my question is this: how do I get
+value-of to ignore the series? Similarly, my next column did not pull anything when set to <xsl:value-of select="series"/>.
+The parent/child relationship has always been difficult for me to understand conceptually, so how do I make this work in practice, other
+than simply taking <series> out of publisher?

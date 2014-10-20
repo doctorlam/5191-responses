@@ -1,0 +1,8 @@
+T.Summers
+Status Report: XML Database Project
+
+My XML file has information about 29 people, and I've entered about 90% of my data.I only have a few more details to gather/enter. I've also styled two HTML elements and plan to style more when the table appears. When I open the XML file, I see a "normal" looking table without grid lines. When I open the HTML file, I see some of the content, but it is not pulling my XML table over. I used W3-schools and your info in GitHub to create the table but it appears as though the files are not relating to eachother. During class time this evening, I plan to continue working on the table.   
+
+Questions:
+1. Do most people have difficulty pulling the table into the HTML view? 
+2. I am working with four files: XML, HTML, CSS, and xsl. At the top of the xml file, I show the relationship with xsl. Do I also need to show a relationship with HTML on the xsl file?

@@ -1,0 +1,21 @@
+I created an XML document that meets all the requirements. It has an XSL file and a CSS file 
+that are properly linked. They work together in Firefox. The XML document lists all of the books 
+that I have with their authors, publishers, dates, titles, condition, and the first sentence of 
+each book. I tagged the XML document so I could put it into different formats, including APA, 
+MLA, and Chicago. This gives me options when I display the final output for different users. I 
+can put these into a searchable format that gives the viewer some options. For example, I can 
+use style guides to create an output that automatically lists the citation for each book. I can 
+also use the first sentence to give the end user some idea of what the book is about. This 
+could help someone decide if they want to read the book. The books from technical communication 
+are usually direct. They often state, "This book describes," or some variation. However, the 
+fiction books often start with a line that is intriguing, but doesn't summarize the book. These 
+books might include a synopsis to give the user a better understanding of what the book is about. 
+I could also create another tag to describe if the book is fiction or non-fiction. Currently, 
+I’m trying to transform the file into html so that multiple browsers can display the information. 
+However, different sources approach this task differently. One source even described what I 
+already have. I’m also exploring way to transform the final output into different formats to 
+give the user options.  
+
+Do MLA, APA, and Chicago cite books in ways that are different enough that someone would want to
+use the XML to return a citation in these formats?
+Should there be a different tag with a synopsis of each book?
