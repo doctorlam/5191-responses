@@ -1,0 +1,12 @@
+Project II Status Report
+
+So far, I think I've made pretty good progress. I have a working table with alternating color rows with around 40 entries. Today, I included the album covers in my database by adding an "album_cover" element to my XML and accompanying code to my XSL. The code works fine from my local machine. 
+
+Goals I have for the rest of the project include making the table sortable and transforming the database into a .pdf. If time allows, after these goals I would probably try to make the album titles links to the songs on each album. However, this last one is not a priority for me; I'm much more concerned with making the table sortable. 
+
+As I mentioned, I'm going to try to make it to OpenHack on Wednesday. However, I might not be able to because on Friday I had to take my laptop in to Geeks on Wheels because it quit turning on. I'm not sure what happened, but I may have to get a new laptop. If I get to go to OpenHack, I'm going to focus on the sortable tablet thing. I'm also going to see if anyone there knows why the database wouldn't open on Safari. If I don't get to go, I'm going to work on the .pdf thing.
+
+I don't have any questions so far, but if I do I'll email them.
+
+Thanks, 
+Autumn
