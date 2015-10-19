@@ -1,0 +1,6 @@
+My status by the start of thise October 19th class is that I'm done with my XML file and have been able to successfully display it as a table in XSL. I found the creation of the XML file quite interesting because I was able to do it for soccer players, and it is useful for anyone who is a soccer fan. The XSL file was slightly more complicated, and I had to figure out how to add content in each block of every column, which I did. It looks quite good now. I'm only left with the CSS file now and the Report. I should be trying to attempt the sortable table with Javascript, but I'm not too sure about how to do that.
+
+Do I link the CSS file to the XML or XSL file?
+How do I link that?
+Is 5 styles in CSS enough?
+Is the submission of the 4 working deliverables enough to get me a B? Just kidding.
